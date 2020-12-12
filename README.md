@@ -2,7 +2,7 @@
 
 This is a node project which consists of Authentication modules like passport.js, social authentication(google oauth).
 
-Goto: https://signup-login-deploy.herokuapp.com/
+Goto: https://signup-signin-deploy.herokuapp.com/
 
 # Project Structure:--
 
